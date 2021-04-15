@@ -16,9 +16,9 @@ This was the first assignment in python where I have done following task-
   determines if it is a composite, a prime or neither prime or composite and prints the message. You can choose to use iterative loops to repeatedly run this 
   script or have the user run the script for every input.
 
-4. Implement a Python function called SmartDivision() that takes two integer arguments. Your function should return the result of the division of the two 
-   integers. If the result is an integer, the return type should be an integer. If the result is a floating point number, the return type should be a floating 
-   point number.
+4.Implement a Python function called SmartDivision() that takes two integer arguments. Your function should return the result of the division of the two 
+  integers. If the result is an integer, the return type should be an integer. If the result is a floating point number, the return type should be a floating 
+  point number.
 
 5.Write a program that takes as input two opposite corners of a rectangle: (x1,y1) and (x2,y2) – float or integer only. Finally, the user is prompted for the 
   coordinates of a third point (x,y). The program should print Boolean value True or False based on whether the point (x,y) lies within the rectangle. At the 
